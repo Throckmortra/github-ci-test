@@ -1,0 +1,34 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.throckmortra.test"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "jhipster",
+        "packageName": "com.throckmortra.test",
+        "packageFolder": "com/throckmortra/test",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZjA5M2UwYjc3YTllMGY4OTQxODRjNWVmNTk3M2M2ZjMxMzc4ZjcyNzljYzNmZjk3M2FlM2ViZjRmMzcyMTU0MmUzOTQyMWFjYjA4OWUyNjk0ZjNmMzE2ZjdlOTc2MmY0YzFiOTJjZWRjM2Y1YmVkY2NhNzk4NTVjN2M2ZGU5NWY=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
